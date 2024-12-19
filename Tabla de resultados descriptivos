@@ -1,0 +1,77 @@
+
+Resultados descriptivos 
+
+. dtable i.des_cronica5 ib3.etnia i.sexo_niño i.prov i.region i.grupo_edad_nin i.años_cu i.dis
+> capacidad i.por_disc i.pobreza  i.pobreza_nbi, export(Descriptive Table.docx) replace
+
+---------------------------------------------------------------------------------
+                                                                       Summary   
+---------------------------------------------------------------------------------
+N                                                                          22,201
+Desnutrición crónica en menores de 5 años                                        
+  No tiene desnutrición crónica                                    18,230 (82.1%)
+  Tiene desnutrición crónica                                        3,971 (17.9%)
+Etnia                                                                            
+  Indígena                                                          2,714 (12.2%)
+  Afroecuatoriana/o                                                    888 (4.0%)
+  Montubia/o                                                           667 (3.0%)
+  Mestiza/o                                                        17,650 (79.5%)
+  Blanca/o u Otra/o                                                    282 (1.3%)
+Sexo                                                                             
+  Hombre                                                           11,380 (51.3%)
+  Mujer                                                            10,821 (48.7%)
+Provincia                                                                        
+  Azuay                                                              1,094 (4.9%)
+  Bolívar                                                              843 (3.8%)
+  Cañar                                                                843 (3.8%)
+  Carchi                                                               665 (3.0%)
+  Cotopaxi                                                             558 (2.5%)
+  Chimborazo                                                           793 (3.6%)
+  El Oro                                                             1,470 (6.6%)
+  Esmeraldas                                                         1,212 (5.5%)
+  Guayas                                                             1,163 (5.2%)
+  Imbabura                                                             676 (3.0%)
+  Loja                                                                 743 (3.3%)
+  Los Ríos                                                             828 (3.7%)
+  Manabí                                                             1,137 (5.1%)
+  Morona Santiago                                                      582 (2.6%)
+  Napo                                                                 837 (3.8%)
+  Pastaza                                                              674 (3.0%)
+  Pichincha                                                         2,285 (10.3%)
+  Tungurahua                                                         1,434 (6.5%)
+  Zamora Chinchipe                                                     868 (3.9%)
+  Sucumbíos                                                            943 (4.2%)
+  Orellana                                                             605 (2.7%)
+  Sto Domingo de los Tsáchilas                                       1,204 (5.4%)
+  Santa Elena                                                          744 (3.4%)
+Región                                                                           
+  Sierra                                                           11,138 (50.2%)
+  Costa                                                             6,554 (29.5%)
+  Amazonía                                                          4,509 (20.3%)
+Grupo de edad en meses para los menores de 5 años                                
+  0-5 meses                                                          1,632 (7.4%)
+  6-11 meses                                                        2,215 (10.0%)
+  12-23 meses                                                       4,443 (20.0%)
+  24-35 meses                                                       4,288 (19.3%)
+  36-47 meses                                                       4,689 (21.1%)
+  48-59 meses                                                       4,934 (22.2%)
+Años cumplidos de los niños                                                      
+  Primeros meses                                                    3,851 (17.3%)
+  Un año                                                            4,434 (20.0%)
+  Dos años                                                          4,286 (19.3%)
+  Tres años                                                         4,696 (21.2%)
+  Cuatro años                                                       4,934 (22.2%)
+Tiene, carné de discapacidad emitido por el CONADIS o el MSP                     
+  Si                                                                    34 (0.2%)
+  No                                                               22,167 (99.8%)
+RECODE of porcentaje_dis (Porcentaje de discapacidad de los niños)               
+  Porcentaje de discapacidad leve                                        1 (2.9%)
+  Porcentaje de discapacidad moderada                                  17 (50.0%)
+  Porcentaje de discapacidad grave                                     16 (47.1%)
+Pobreza por ingresos                                                             
+  No pobreza por ingresos                                          15,205 (68.5%)
+  Pobreza por ingresos                                              6,996 (31.5%)
+Pobreza por Necesidades Básicas Insatisfechas (NBI)                              
+  No pobreza por NBI                                               14,612 (65.8%)
+  Pobreza por NBI                                                   7,589 (34.2%)
+---------------------------------------------------------------------------------
